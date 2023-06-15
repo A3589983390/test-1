@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>哈囉!</h1>
       <p>
 哈囉!
       </p>
